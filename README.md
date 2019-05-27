@@ -1,13 +1,13 @@
-##Test Notes
+## Test Notes
 DEVELOPER: Claudio Ricci
 
-NOTES:
+## NOTES:
 Each component has accompanying inline comments, explaining:
 
 -> Key functionality
 -> Things that I would have expanded on / were working on
 
-Areas covered:
+## Areas covered:
 
 -> Successfully rendering list of partners in navigation
 -> Successfully rendering of key values in main control panel
@@ -15,7 +15,7 @@ Areas covered:
 -> Deliberate use of 'Styled Components' and React Fragments in sections to demonstrate knowledge of latest React Features.
 -> As an alternative to 'Styled Components', componentised CSS used. I have mixed the two simply to show different approaches; HOWEVER, IN PRODUCTION, I WOULD STICK TO COMPONENTISED CSS USING 'BEM' STYLING RULES
 
-Issues that I would have addressed given more time:
+## Issues that I would have addressed given more time:
 
 -> Add tests - e.g. to calculate appropriate subsidy
 -> Get routing working to allow user to navigate between Listed Companies and see result in main panel, rather than typing into Browser URL
